@@ -1,0 +1,15 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "oefeningen html-css rinzin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "surge-absolute": "surge C:\\0_Programming\\Full_Stack_Development\\HTML rinzin-html-css-syntra.surge.sh/",
+    "surge": "surge . rinzin-html-css-syntra.surge.sh/",
+    "info":"is hetzelfde als er boven echter, het tweede werkt altijd, ookal is het verplaatst"
+    
+  },
+  "author": "Rinzin Tenzin",
+  "license": "ISC"
+}
